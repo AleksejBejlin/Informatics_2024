@@ -29,4 +29,5 @@ func main() {
 	print("\n")
 
 	lab8.AnsTask2()
+	print("\n")
 }
